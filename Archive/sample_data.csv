@@ -1,0 +1,11 @@
+username,num_followers,num_following,num_posts,has_profile_picture,bio_length,is_verified,is_fake
+real_user_01,1500,200,80,1,120,0,0
+fake_user_01,20,5000,2,0,0,0,1
+real_user_02,3000,180,150,1,180,1,0
+fake_user_02,45,4000,1,0,10,0,1
+real_user_03,1200,220,70,1,150,0,0
+fake_user_03,18,5200,3,0,5,0,1
+real_user_04,1800,150,95,1,110,0,0
+fake_user_04,30,4300,2,0,2,0,1
+real_user_05,2400,190,100,1,140,1,0
+fake_user_05,25,5100,4,0,0,0,1
