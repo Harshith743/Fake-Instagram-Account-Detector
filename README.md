@@ -1,6 +1,6 @@
 # 🔍 Fake Instagram Account Detector
 
-![Project Banner](https://i.imgur.com/Jf5qN0a.png) *(Upload your project screenshot here)*
+![Project Banner]([https://i.imgur.com/Jf5qN0a.png](https://raw.githubusercontent.com/Harshith743/Fake-Instagram-Account-Detector/refs/heads/main/Screenshots/main.png))
 
 A machine learning-powered web application that identifies fake Instagram accounts with **93% accuracy** using Random Forest algorithm.
 
@@ -35,6 +35,7 @@ Copy
 cd ../frontend
 npm install
 npm start
+```
 🛠️ Tech Stack
 Component	Technology
 Frontend	ReactJS, CSS3
@@ -49,29 +50,16 @@ Accuracy	93.06%
 Precision	95%
 Recall	90%
 F1-Score	92%
-📸 Screenshots
+📸 Screenshots:
 Genuine Account Detection	Fake Account Detection
-Genuine	Fake
+
 🌟 Future Enhancements
-Browser extension version
-
-Twitter/Facebook integration
-
-Deepfake profile picture detection
-
-🤝 Contributing
-Fork the repository
-
-Create your feature branch (git checkout -b feature/AmazingFeature)
-
-Commit your changes (git commit -m 'Add some AmazingFeature')
-
-Push to the branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
+-Browser extension version
+-Twitter/Facebook integration
+-Deepfake profile picture detection
 
 📜 License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. See ![LICENSE](LICENSE.txt) for more information.
 
 📧 Contact
 Harshith Reddy T
